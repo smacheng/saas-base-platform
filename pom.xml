@@ -7,5 +7,8 @@
   <modules>
   	<module>boot-web</module>
   	<module>boot-home</module>
+  	<module>boot-admin</module>
+  	<module>boot-front</module>
+  	<module>boot-partner</module>
   </modules>
 </project>
